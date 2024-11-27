@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌟 Desarrollador de Software
-Soy un apasionado de la tecnología y el desarrollo de software, enfocado en construir aplicaciones modernas, funcionales y de alto impacto. Siempre estoy en busca de aprender nuevas herramientas y mejorar mis habilidades. Actualmente, estoy trabajando en mejorar mis conocimientos en Spring Boot y React.
+🌟 Soy un apasionado de la tecnología y el desarrollo de software, enfocado en construir aplicaciones modernas, funcionales y de alto impacto. Siempre estoy en busca de aprender nuevas herramientas y mejorar mis habilidades. Actualmente, estoy trabajando en mejorar mis conocimientos en Spring Boot y React.
 
 🚀 Rápido aprendiz y creativo, siempre encuentro soluciones innovadoras a los problemas que enfrento. A pesar de estar al comienzo de mi carrera como desarrollador, estoy comprometido con mi crecimiento profesional y me esfuerzo por contribuir a proyectos significativos.
 
